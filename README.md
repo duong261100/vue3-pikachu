@@ -2,9 +2,7 @@
 
 ## Link demo
 
-```
 [vue3-pikachu](https://vue3-pikachu.herokuapp.com)
-```
 
 ## Project setup
 
