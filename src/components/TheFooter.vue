@@ -2,7 +2,9 @@
     <div class="container">
         <p>
             Developed by Duong with Vue 3 in 13/05/2022 -
-            <a href="">link github</a>
+            <a href="https://github.com/duong261100/vue3-pikachu"
+                >link github</a
+            >
         </p>
     </div>
 </template>
