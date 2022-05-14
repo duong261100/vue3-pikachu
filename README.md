@@ -1,5 +1,11 @@
 # vue3-pikachu
 
+## Link demo
+
+```
+https://vue3-pikachu.herokuapp.com
+```
+
 ## Project setup
 
 ```
